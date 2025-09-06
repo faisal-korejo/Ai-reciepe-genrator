@@ -1,4 +1,4 @@
-# AI Recipe Generator
+#  AI Recipe Generator
 
 A recipe generation application built with React, TypeScript, and Vite.
 
